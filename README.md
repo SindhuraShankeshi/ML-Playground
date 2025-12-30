@@ -2,9 +2,6 @@
 
 Hands‑on Jupyter notebooks for learning core ML concepts (overfitting, underfitting) and TensorFlow — runnable in Colab.
 
-Short description
-"Hands‑on Jupyter notebooks for learning core ML concepts (overfitting, underfitting) and TensorFlow — runnable in Colab."
-
 Topics
 machine-learning, tensorflow, colab, jupyter-notebook, tutorials, overfitting, underfitting, beginner-ml
 
